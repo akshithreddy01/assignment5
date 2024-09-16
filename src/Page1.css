@@ -1,0 +1,33 @@
+.page1-container {
+  padding: 20px;
+  background-color: #f0f8ff;
+  border-radius: 10px;
+}
+
+.page1-title {
+  color: #ff6347;
+  font-size: 2em;
+  text-align: center;
+  font-weight: bold;
+}
+
+.page1-rangepicker,
+.page1-search,
+.page1-button {
+  border-radius: 8px;
+  border: 1px solid #ff4500;
+}
+
+.page1-button {
+  background-color: #ff4500;
+  color: white;
+}
+
+.page1-button:hover {
+  background-color: #ff6347;
+  color: white;
+}
+
+.page1-table {
+  border-radius: 10px;
+}
